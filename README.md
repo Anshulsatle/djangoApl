@@ -1,0 +1,2 @@
+# djangoApl
+Django projec
